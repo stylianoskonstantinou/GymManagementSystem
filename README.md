@@ -72,6 +72,3 @@ Use the GUI to add members, manage subscriptions, track attendance, and generate
 ## Author
 Stylianos Konstantinou
 Postgraduate student in Applied Informatics, Department of Electrical and Computer Engineering, University of Thessaly.
-[8](https://www.reddit.com/r/programming/comments/cfeu99/readme_template_i_use_for_most_of_my_projects/)
-[9](https://www.youtube.com/watch?v=12trn2NKw5I)
-[10](https://gitlab.com/ton1czech/project-readme-template)
