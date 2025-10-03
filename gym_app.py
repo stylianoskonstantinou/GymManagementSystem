@@ -6,7 +6,7 @@ from tkinter import messagebox, simpledialog
 # --- ΣΥΝΔΕΣΗ ΜΕ ΒΑΣΗ ΔΕΔΟΜΕΝΩΝ ---
 def connect():
     return psycopg2.connect(
-        host="your_host",          # Π.χ. localhost ή η IP της βάσης σου
+        host="your_host",          # localhost ή η IP της βάσης σου
         port="5432",               # Συνήθης θύρα για PostgreSQL
         dbname="your_database",    # Όνομα της βάσης δεδομένων
         user="your_username",      # Το όνομα χρήστη
